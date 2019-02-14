@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JesusTellezSerrano1y2", "JesusTellezSerrano1y2.csproj", "{44A1EC9E-33B3-40F2-F179-96156B7E06C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JesusTellezSerrano1y2.Editor", "JesusTellezSerrano1y2.Editor.csproj", "{E65E633D-8BCF-E497-C06F-98D70C01FD62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44A1EC9E-33B3-40F2-F179-96156B7E06C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44A1EC9E-33B3-40F2-F179-96156B7E06C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44A1EC9E-33B3-40F2-F179-96156B7E06C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44A1EC9E-33B3-40F2-F179-96156B7E06C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65E633D-8BCF-E497-C06F-98D70C01FD62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65E633D-8BCF-E497-C06F-98D70C01FD62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65E633D-8BCF-E497-C06F-98D70C01FD62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65E633D-8BCF-E497-C06F-98D70C01FD62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
